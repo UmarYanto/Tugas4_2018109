@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas 4_2018109</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="isi">Netflix merupakan layanan untuk menonoton film secara berbayar</string>
+    <string name="harga">35000</string>
+    <string name="deskripiyt">"YouTube Premium merupakan layanan untuk menonton film dan memutar musik secara online "</string>
+    <string name="harga2">5000</string>
+    <string name="deskripsidisney">disney merupakan layanan untuk menonton film tetapi sedikit berbeda dengan Netflix</string>
+    <string name="harga3">25000</string>
+</resources>
